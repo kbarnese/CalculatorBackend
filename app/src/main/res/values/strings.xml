@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="counter">This Is A counter</string>
+    <string name="answer"/>
+    <string name="answer2">0</string>
+    <string name="Val0">0</string>
+</resources>
